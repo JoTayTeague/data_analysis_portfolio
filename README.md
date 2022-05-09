@@ -6,7 +6,7 @@ Hello! My name is JoAnna. I am a data analyst, developer, and a passionate probl
 
 This repository contains my portfolio of data science and data analyst projects. Each project is presented using Jupyter Notebooks. 
 
-To take a look at these analyses, you can click on the dataset folder listed above. There you will see a folder for each portfolio project. Each folder contains the Jupyter Notebook file where the analysis was done, a pdf of all figures from the analysis, and a report breaking down the results of the analysis.
+To take a look at these analyses, you can click on the dataset folder listed above. There you will see a folder for each portfolio project. Each folder contains the Jupyter Notebook file where the analysis was done, a pdf of all figures from the analysis, a report breaking down the results of the analysis, and either the original dataset file or a link to the file.
 
 
 CONTACT: 
