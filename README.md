@@ -1,6 +1,6 @@
 # Data_Analysis_Portfolio
 
-###ABOUT:
+##ABOUT:
 
 Hello! My name is JoAnna. I am a data analyst, developer, and a passionate problem solver. I specialize in Python with experience in Pandas, Matplotlib, Seaborn, and Numpy. I also have experience working with SQL, Javascript, CSS, and HTML.
 
