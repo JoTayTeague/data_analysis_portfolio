@@ -2,7 +2,7 @@
 
 ## **ABOUT**:
 
-Hello! My name is JoAnna. I am a data analyst, developer, and a passionate problem solver. I specialize in Python with experience in Pandas, Matplotlib, Seaborn, and Numpy. I also have experience working with SQL, Javascript, CSS, and HTML.
+Hello! I am a developer focusing on data analysis and visualization. I specialize in Python with experience in SQL, Tableau, Pandas, Matplotlib, Seaborn, and Numpy. I have certificates in Python, SQL, and Python Data Analysis and Visualization. I also have experience working with Javascript, CSS, and HTML. 
 
 This repository contains my portfolio of data analyst projects. Each project is presented using Jupyter Notebooks. 
 
